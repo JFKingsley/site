@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: "/site",
   siteMetadata: {
-    title: `Jon Kingsley`,
-    description: `My personal website.`,
-    author: `Jon Kingsley`,
+    title: `Jon Kingsley - Engineer, Actor and more...`,
+    description: `Jonathan Kingsley - Engineer, Actor and more...`,
+    author: `Jonathan Kingsley`,
   },
   plugins: [
   	'gatsby-plugin-postcss', 
